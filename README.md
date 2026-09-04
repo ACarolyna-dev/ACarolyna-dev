@@ -1,5 +1,5 @@
-# 💫 About Me:
-* 🎓 **Software Engineering Student**<br>* 📱 Interested in **Mobile App Development**<br>* ☁️ Interested in **Cloud Computing & AWS**<br>* 💻 Learning **C, AWS & Software Development**<br>* 🚀 Developing my skills through **hands-on projects and practice**<br><br>
+# Hi! Im Ana Carolyna👾.
+ * 🎓 **Software Engineering Student**<br>* 📱 Interested in **Mobile App Development**<br>* ☁️ Interested in **Cloud Computing & AWS**<br>* 💻 Learning **C, AWS & Software Development**<br>* 🚀 Developing my skills through **hands-on projects and practice**<br><br>
 
 
 ## 🌐 Socials:
